@@ -3,7 +3,7 @@
 
 My organization decided to venture into mobile phone business as a way of extending our product portfolio in our expansion plan. We worked on all aspects of marketing but one challenge remained unresolved! - how do we price our product considering that we always strive to price optimally; underpricing or overpricing is a risk we never consider
 
-The main goal of the project is therefore to develop a model that gives ideal price given a set of product characteristics.
+The main goal of the project is therefore to develop a model that estimates ideal price given a set of product characteristics.
 ## Objectives
 1. Firstly, seek to understand mobile phone device ecosystem by 
     - Identifying characteristics of mobile features in the market
