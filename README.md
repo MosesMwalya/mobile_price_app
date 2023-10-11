@@ -5,7 +5,7 @@ My organization decided to venture into mobile phone business as a way of extend
 
 The main goal of the project is therefore to develop a model that gives ideal price given a set of product characteristics.
 ## Objectives
-1. 1.	Firstly, seek to understand mobile phone device ecosystem by 
+1. Firstly, seek to understand mobile phone device ecosystem by 
     - Identifying characteristics of mobile features in the market
     -  And then establishing any relationship between features of a mobile phone and its selling price. 
 
