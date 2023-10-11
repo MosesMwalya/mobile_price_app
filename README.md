@@ -10,6 +10,6 @@ The main goal of the project is therefore to develop a model that gives ideal pr
     -  And then establishing any relationship between features of a mobile phone and its selling price. 
 
     
-2. Secondly, to determine the role the established phone features play in determining their price.
+2. Secondly, to determine the role the phone features play in determining their price.
 
 3. Finally, develop and avail a simulation model that our marketers would use to determine ideal mobile price for a given combination of phone features.
