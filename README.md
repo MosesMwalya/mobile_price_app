@@ -19,11 +19,14 @@ The data used in this exercise is a fictitious data from [Kaggle](https://www.ka
 
 There are two steps involved:-
 1. generating list of features that customers always ask for when buying a mobile phone.
+   
    I did immersions with phone sellers and through this process, I was able to generate a list of features that customers consider important when buying phone. The list is as shown
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Phone%20Features.png)
 
 3. Collected quantitative data of mobile phones
+   
    Using features identified in Step 1 above, I developed a questionnaire and visited randomly selected phone shop sellers and for each phone that they stocked, recorded the features and corresponding price range. During this exercise, I collected data for 2000 different mobile phones on sale.
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/quant_data.png)
 
    
 
