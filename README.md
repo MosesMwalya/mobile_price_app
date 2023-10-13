@@ -44,13 +44,49 @@ To enable marketers play with different combination of features and resultant id
 
 ### Understanding Mobile Phone market ecosystem 
 1. Distribution of mobile phone features in the market
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Distribution%20of%20Numeric%20Vars.png)
 
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Target%20Features%20distribution.png)
+
+  We note that
+  - 
 1. How Features relate with Price Range
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Categoricals%20Vars%20against%20Target.png)
+
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Numeric%20Vars%20agaist%20Target.png)
+
    
 1. Relationship between Features
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_range%20relationship%20with%20other%20features.png)
+
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/features%20relationship.png)
+
+
+## The Model
+1. I used Random Forest classifier because it satisfied the following conditions identified during Exploratory Data Analysis
+
+       - Understanding that some features have outliers
+       - The data contains a mix of both numerical and categorical features
+       - The data contains a fairly large number of features i.e. 20 features
+       - The output feature has 4-classes; so classifier must be able to work for multiclassification problem
+       - As part of the output, the user wants to establish the features importance in determing price range
+       - The size of data being 2000 instances isnt big enough for a large model training
+       - Obviously a model good enough to generalize; giving a relatively good accuracy, precision and recall.
    
+1. Hyperparameter tuning
 
+     - Estimating optimal number of Decision Trees.
+       ```
+       https://www.blog.dailydoseofds.com/p/your-random-forest-is-underperforming
 
+       --Avi Chwala
+       ```
+     - GridSearchCV
+     - 
+1. Decision Trees
+       
+1. Decision Boundary
+   
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
 
