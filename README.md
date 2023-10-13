@@ -18,3 +18,7 @@ The main goal of the project is therefore to develop a model that estimates idea
 
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
+
+## Contributions
+Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/MosesMwalya/mobile_price_app/blob/main/Contributions.md). Any improvements, bug fixes, or additional projects are greatly appreciated
+
