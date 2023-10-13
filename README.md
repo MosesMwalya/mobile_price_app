@@ -83,6 +83,16 @@ This deployment was possible through use of [Streamlight](https://streamlit.io/)
 
 ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Numeric%20Vars%20agaist%20Target.png)
 
+
+Observations:-
+
+    - Phones with *blue tooth* capability tend to cost higher.
+    - Phones with *dual SIM* functionality tend to cost higher.
+    - Phones with *3G or 4G* technology are likely to cost higher.
+    - Generally, *touch_screen* phones cost higher.
+    - Phones with *wifi* support costs higher.
+    - Increase in phone *Battery_power power* as well as *ram* results in direct increase in price range
+    - Other phone features that have slight impact in cost includes *pc, px_height, px_width, sc_h and sc_w*
    
 #### Relationship between Features
 
