@@ -13,3 +13,8 @@ The main goal of the project is therefore to develop a model that estimates idea
 2. Secondly, to determine the role the phone features play in determining their price.
 
 3. Finally, develop and avail a simulation model that our marketers would use to determine ideal mobile price for a given combination of phone features.
+
+
+
+## License
+This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
