@@ -30,10 +30,11 @@ There are two steps involved:-
 
 ## The Finding
 1. Mobile Price Point Simulator
-   To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
+   
+    To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
 
-    ![]()
-   https://mobileprice-f4464c53c2d6.herokuapp.com/
+    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
+
 
 
 ## License
