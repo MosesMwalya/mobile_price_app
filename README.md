@@ -43,26 +43,27 @@ To enable marketers play with different combination of features and resultant id
 
 
 ### Understanding Mobile Phone market ecosystem 
-1. Distribution of mobile phone features in the market
+#### Distribution of mobile phone features in the market
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Distribution%20of%20Numeric%20Vars.png)
 
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Target%20Features%20distribution.png)
 
   We note that
   - 
-1. How Features relate with Price Range
+#### How Features relate with Price Range
 ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Categoricals%20Vars%20against%20Target.png)
 
 ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Numeric%20Vars%20agaist%20Target.png)
 
    
-1. Relationship between Features
+#### Relationship between Features
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_range%20relationship%20with%20other%20features.png)
 
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/features%20relationship.png)
 
 
 ## The Model
+
 1. I used Random Forest classifier because it satisfied the following conditions identified during Exploratory Data Analysis
 
        - Understanding that some features have outliers
@@ -84,9 +85,10 @@ To enable marketers play with different combination of features and resultant id
      - GridSearchCV
      - 
 1. Decision Trees
-       
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/DTrees%20of%20RF%20estimators.png)
+    
 1. Decision Boundary
-   
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Decision%20boundary%20of%20RF%20using%20t-SNE.png)
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
 
