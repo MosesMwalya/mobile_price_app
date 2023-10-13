@@ -15,7 +15,7 @@ The main goal of the project is therefore to develop a model that estimates idea
 3. Finally, develop and avail a simulation model that our marketers would use to determine ideal mobile price for a given combination of phone features.
 
 ## About Dataset
- *The data used in this exercise is a fictitious data from [Kaggle](https://www.kaggle.com/datasets/ybifoundation/mobile-price-range?select=MobilePriceRange.csv). I however try as much as possible to demonstrate the steps that one can use to generate similar set.*
+ *I used fictitious data from [Kaggle](https://www.kaggle.com/datasets/ybifoundation/mobile-price-range?select=MobilePriceRange.csv) but I try as much as possible to demonstrate the steps that one can use to generate similar set.*
 
 There are two steps involved:-
 1. generating list of features that customers always ask for when buying a mobile phone.
