@@ -5,7 +5,7 @@ My organization decided to venture into mobile phone business as a way of extend
 
 The main goal of the project is therefore to develop a model that estimates ideal price given a set of product characteristics.
 ## Objectives
-1. Firstly, seek to understand mobile phone device ecosystem by 
+1. Firstly, seek to understand mobile phone market ecosystem by 
     - Identifying characteristics of mobile features in the market
     -  And then establishing any relationship between features of a mobile phone and its selling price. 
 
@@ -29,16 +29,25 @@ There are two steps involved:-
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/quant_data.png)
 
 ## The Finding
-1. Mobile Price Point Simulator
+### Mobile Price Point Simulator
    
     To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
 
 
     ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
 
-1. Role phone features play in determining price range
+### Role phone features play in determining price range
 
-   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Features%20Importance.png)
+
+### Understanding Mobile Phone market ecosystem 
+1. Distribution of mobile phone features in the market
+
+1. How Features relate with Price Range
+   
+1. Relationship between Features
+   
+
 
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
