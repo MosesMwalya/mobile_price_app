@@ -33,12 +33,13 @@ There are two steps involved:-
    
     To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
 
-
     ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
+
 
 ### Role phone features play in determining price range
 
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Features%20Importance.png)
+
 
 ### Understanding Mobile Phone market ecosystem 
 1. Distribution of mobile phone features in the market
