@@ -19,7 +19,7 @@ The data used in this exercise is a fictitious data from [Kaggle](https://www.ka
 
 There are two steps involved:-
 1. generating list of features that customers always ask for when buying a mobile phone.
-   (https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Phone%20Features.png)
+   ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Phone%20Features.png)
 
 3. Using features identified in step 1 above, visit random number of shops selling mobile phones and for each phone that they are selling, record the features and corresponding price range. During this exercise, I collected data for 2000 different mobile phones on sale.
 
