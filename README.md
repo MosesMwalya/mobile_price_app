@@ -33,6 +33,8 @@ There are two steps involved:-
    
 To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
 
+This deployment was possible through use of [Streamlight](https://streamlit.io/) and [Heroku](https://www.heroku.com/)
+
 
 ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
 
@@ -84,7 +86,7 @@ To enable marketers play with different combination of features and resultant id
 
      - Estimating optimal number of Decision Trees. This well articulated by [Avi Chwala](https://www.blog.dailydoseofds.com/p/your-random-forest-is-underperforming)
       
-     - GridSearchCV
+     - Popular [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) 
 
       After tuning the model, Accuracy has slightly increased from 87%; with the model generalizing fairly well to 88%
    
