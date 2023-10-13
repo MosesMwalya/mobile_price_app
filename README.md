@@ -44,19 +44,25 @@ To enable marketers play with different combination of features and resultant id
 
 ### Understanding Mobile Phone market ecosystem 
 #### Distribution of mobile phone features in the market
+
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Distribution%20of%20Numeric%20Vars.png)
 
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Target%20Features%20distribution.png)
 
-  We note that
-  - 
+      We note that
+      - 
+      - 
+        
 #### How Features relate with Price Range
+
 ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Categoricals%20Vars%20against%20Target.png)
+
 
 ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Numeric%20Vars%20agaist%20Target.png)
 
    
 #### Relationship between Features
+
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_range%20relationship%20with%20other%20features.png)
 
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/features%20relationship.png)
@@ -76,19 +82,22 @@ To enable marketers play with different combination of features and resultant id
    
 1. Hyperparameter tuning
 
-     - Estimating optimal number of Decision Trees.
-       ```
-       https://www.blog.dailydoseofds.com/p/your-random-forest-is-underperforming
-
-       --Avi Chwala
-       ```
+     - Estimating optimal number of Decision Trees. This well articulated by [Avi Chwala](https://www.blog.dailydoseofds.com/p/your-random-forest-is-underperforming)
+      
      - GridSearchCV
-     - 
+
+      After tuning the model, Accuracy has slightly increased from 87%; with the model generalizing fairly well to 88%
+   
 1. Decision Trees
+   
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/DTrees%20of%20RF%20estimators.png)
     
 1. Decision Boundary
+   
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Decision%20boundary%20of%20RF%20using%20t-SNE.png)
+
+
+
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
 
