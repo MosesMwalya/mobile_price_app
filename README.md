@@ -56,20 +56,25 @@ This deployment was possible through use of [Streamlight](https://streamlit.io/)
    2. In terms of other features, which features are popular?
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Distribution%20of%20Numeric%20Vars.png)
 
-      We note
+      We note the following:-
+      
           - *battery_power* - % of phones with battery power from lowest capacity (min=501 mAh) to highest capacity (max=1998 mAh) is the same. No particular capacity is higher than another.
+      
           - Phones with *bluetooth, dual SIM, 4G, touch screen, and wifi* have same share as those without
+      
           - Phones with *lower clock speed* are more than those with more speeds
+      
           - Phones with lower *front camera megapixels* are more than those with higher megapixels
+      
           - Market has phones in varying level of *internal memory* and none is a clear leader
+      
           - The market has more phones with lower *front camera megapixels, pixel resolution height px_height, screen width* as compared to higher levels of the same features.
+      
           - Nearly 75% of phones in the market are supporting *3G technology*.
+      
           - Interestingly, all phones supporting *4G* also supports *3G*
   
 
-      We note that
-      - 
-      - 
         
 #### How Features relate with Price Range
 
