@@ -22,3 +22,8 @@ This project is licensed under the [MIT License](https://github.com/MosesMwalya/
 ## Contributions
 Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/MosesMwalya/mobile_price_app/blob/main/Contributions.md). Any improvements, bug fixes, or additional projects are greatly appreciated
 
+## Feedback and Contact
+I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at moses.mutua@gmail.com
+
+Enjoy exploring my data science projects!
+
