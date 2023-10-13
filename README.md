@@ -33,7 +33,8 @@ There are two steps involved:-
    
     To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
 
-    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
+
+        ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Price_simulation%20Model.png)
 
 
 
