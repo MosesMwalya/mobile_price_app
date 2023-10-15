@@ -136,26 +136,25 @@ Observations:-
 
 
 ## Key Libraries used
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc3.klipartz.com%2Fpngpicture%2F401%2F742%2Fsticker-png-alternative-python-icons-and-folder-icon-python-2-thumbnail.png&tbnid=1HCoZd54UlvxNM&vet=12ahUKEwjc8oDV6vKBAxUFrycCHcBiDo4QMygJegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsearch%3Fq%3Dpython&docid=PrSdE_mOE_VI3M&w=370&h=370&q=icon%20for%20python&ved=2ahUKEwjc8oDV6vKBAxUFrycCHcBiDo4QMygJegQIARB_)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F05%2FScikit_learn_logo_small.svg%2F2560px-Scikit_learn_logo_small.svg.png&tbnid=6beLvrlelDhObM&vet=12ahUKEwi4pdPr6vKBAxVnV6QEHXyrBXQQMygAegQIARBI..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AScikit_learn_logo_small.svg&docid=ZasF_RP8GlBo-M&w=2560&h=1378&q=icon%20for%20sklearn&ved=2ahUKEwi4pdPr6vKBAxVnV6QEHXyrBXQQMygAegQIARBI)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-logo-secondary-colormark-darktext.png&tbnid=_l3WkM3jQpymsM&vet=12ahUKEwjOvqXq6_KBAxWfticCHUH9DBgQMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fstreamlit.io%2Fbrand&docid=vnWK2tMrGVX_0M&w=2921&h=811&q=icon%20for%20streamlit&ved=2ahUKEwjOvqXq6_KBAxWfticCHUH9DBgQMygAegQIARBM)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Ffree-heroku-11-1175214.png&tbnid=5cUhCMeCmqmY5M&vet=12ahUKEwjumcv46_KBAxXbmicCHWzGDP4QMygDegQIARBR..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficons%2Fheroku&docid=5zvTLwWQDEM8xM&w=256&h=256&q=icon%20for%20heroku&ved=2ahUKEwjumcv46_KBAxXbmicCHWzGDP4QMygDegQIARBR)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2F1.bp.blogspot.com%2F-1VKv6Sq1WDw%2FXmc1Cy-UWtI%2FAAAAAAAAD-I%2Fye3uFBx8D6MEGEgbtzCLD5rzx7A44Pz-ACNcBGAsYHQ%2Fs1600%2Fpython-pickle-800x2001.png&tbnid=y1vFAb4iEJuh4M&vet=12ahUKEwirgt_A7PKBAxW4rycCHd2MCNMQMygAegQIARAt..i&imgrefurl=https%3A%2F%2Fwww.infinitycodex.in%2F2020%2F03%2Fdata-science-ss-107python-pickle.html&docid=zoam8Z2mSdq9CM&w=570&h=196&q=icon%20for%20pickle%20python%20documentation&hl=en&ved=2ahUKEwirgt_A7PKBAxW4rycCHd2MCNMQMygAegQIARAt)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F31%2FNumPy_logo_2020.svg%2F2560px-NumPy_logo_2020.svg.png&tbnid=_USeIIo97vUGrM&vet=12ahUKEwiHsviN6_KBAxVyW6QEHdbbBUUQMygCegQIARBH..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&docid=2szkTYJOYt7fEM&w=2560&h=1152&q=icon%20for%20numpy&ved=2ahUKEwiHsviN6_KBAxVyW6QEHdbbBUUQMygCegQIARBH)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fed%2FPandas_logo.svg%2F1280px-Pandas_logo.svg.png&tbnid=MQyOBeq811GD5M&vet=12ahUKEwjyiN2c6_KBAxUdnCcCHdRGCJAQMygCegQIARBK..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APandas_logo.svg&docid=jK6kcNRt9RgIqM&w=1280&h=517&q=icon%20for%20pandas&ved=2ahUKEwjyiN2c6_KBAxUdnCcCHdRGCJAQMygCegQIARBK)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmatplotlib.org%2Fstable%2F_images%2Fsphx_glr_logos2_003.png&tbnid=-gUoUQ7YcievqM&vet=12ahUKEwjE9ZCu6_KBAxVtV6QEHdyuBiQQMygDegQIARBL..i&imgrefurl=https%3A%2F%2Fmatplotlib.org%2Fstable%2Fgallery%2Fmisc%2Flogos2.html&docid=bRmdr0PbayjZRM&w=550&h=110&q=icon%20for%20matplotlib&ved=2ahUKEwjE9ZCu6_KBAxVtV6QEHdyuBiQQMygDegQIARBL)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png&tbnid=s_ocSxDsnTkjZM&vet=12ahUKEwjd1MTO6_KBAxU3kicCHXAECvkQMygGegQIARBV..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fmwaskom%2Fseaborn%2Fissues%2F2243&docid=vhVYirNQjejZJM&w=819&h=248&q=icon%20for%20seaborn&ved=2ahUKEwjd1MTO6_KBAxU3kicCHXAECvkQMygGegQIARBV)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8a%2FPlotly-logo.png&tbnid=Amymi2H4BenB9M&vet=12ahUKEwjiv9q96_KBAxXDVKQEHXQGAmAQMygCegQIARAx..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPlotly&docid=5YCcidvLDTOu8M&w=1250&h=417&q=icon%20for%20plotly.express&ved=2ahUKEwjiv9q96_KBAxXDVKQEHXQGAmAQMygCegQIARAx)
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png)
 
+![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
