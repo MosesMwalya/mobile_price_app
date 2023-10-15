@@ -27,8 +27,9 @@ There are two steps involved:-
    
    Using features identified in Step 1 above, I developed a questionnaire and visited randomly selected phone shop sellers and for each phone that they stocked, recorded the features and corresponding price range. During this exercise, I collected data for 2000 different mobile phones on sale.
    ![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/quant_data.png)
-
+   
 ## The Finding
+
 ### Mobile Price Point Simulator
    
 To enable marketers play with different combination of features and resultant ideal price range, I developed a [simulator model](https://mobileprice-f4464c53c2d6.herokuapp.com/).
