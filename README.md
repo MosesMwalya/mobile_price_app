@@ -120,9 +120,11 @@ Observations:-
    
 1. Hyperparameter tuning
 
-     - Estimating optimal number of Decision Trees. This well articulated by [Avi Chwala](https://www.blog.dailydoseofds.com/p/your-random-forest-is-underperforming)
+     - The base model was [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
       
-     - Popular [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) 
+     - [Bayesian Optimization](https://github.com/bayesian-optimization/BayesianOptimization)
+       
+     - [RandomSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
 
       After tuning the model, Accuracy has slightly increased from 87%; with the model generalizing fairly well to 88%
    
@@ -136,25 +138,25 @@ Observations:-
 
 
 ## Key Libraries used
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png)
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="200" height="200" />
+
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="200" height="200" />
 
 
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png)
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png)
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png)
-
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png)
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png)
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png)
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png)
-
-![](https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
