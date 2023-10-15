@@ -139,27 +139,40 @@ Observations:-
 
 ## Key Libraries used
 
-| No | Library |
-|... | ... |
-| 1 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="100" height="100" /> 
 
-| 2 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="100" height="100" /> 
 
-| 3 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="100" height="100" /> 
 
-| 4 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="100" height="100" /> 
 
-| 5 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="100" height="100" /> 
 
-| 6 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="100" height="100" /> 
 
-| 7 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="100" height="100" /> 
 
-| 8 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="100" height="100" /> 
 
-| 9 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="100" height="100" /> |
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="100" height="100" /> 
 
 
+## References
+1. (https://www.kaggle.com/code/alifarahmandfar/mobile-price-prediction-classification-models)
+   ``` By ALI FARAHMANDFAR```
+   
+3. [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+   
+5. [RandomSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
+
+6. [Bayesian Optimizer](https://github.com/bayesian-optimization/BayesianOptimization)
+
+7. [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+
+8. [Streamlit](https://docs.streamlit.io/library/get-started/main-concepts)
+
+9. [Pickle](https://docs.python.org/3/library/pickle.html)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/MosesMwalya/mobile_price_app/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
