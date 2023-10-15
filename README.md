@@ -138,23 +138,23 @@ Observations:-
 
 
 ## Key Libraries used
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="200" height="200" />
+<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="100" height="100" />
 
 
 
