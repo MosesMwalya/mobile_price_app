@@ -138,23 +138,26 @@ Observations:-
 
 
 ## Key Libraries used
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="100" height="100" />
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="100" height="100" />
+| No | Library |
+|... | ... |
+| 1 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/scitkit.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="100" height="100" />
+| 2 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/matplotlib.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="100" height="100" />
+| 3 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/numpy.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="100" height="100" />
+| 4 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/pandas.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="100" height="100" />
+| 5 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/MLxtend.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="100" height="100" />
+| 6 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/plotly.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="100" height="100" />
+| 7 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/seaborn.png" width="100" height="100" /> |
 
-<img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="100" height="100" />
+| 8 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/streamlit.png" width="100" height="100" /> |
+
+| 9 | <img src="https://github.com/MosesMwalya/mobile_price_app/blob/main/images/Libraries/heroku.png" width="100" height="100" /> |
 
 
 
