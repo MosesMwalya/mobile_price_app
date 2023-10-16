@@ -1,5 +1,5 @@
 
-# Beyond the Specs: Understanding the Hidden Influences on Mobile Phone Prices Through Data-driven Modeling and Predictive Analysis.
+# Cracking the Price Puzzle: Unveiling the Power of Machine Learning in Product Pricing Strategies.
 
 My organization decided to venture into mobile phone business as a way of extending our product portfolio in our expansion plan. We worked on all aspects of marketing but one challenge remained unresolved! - how do we price our product considering that we always strive to price optimally; underpricing or overpricing is a risk we never consider
 
